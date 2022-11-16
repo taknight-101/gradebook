@@ -5,10 +5,10 @@
 
 ## Feature Description & details : 
 > Gradebook
-- Teacher portal showing a listing of an in-memory collection of studetns and their average mean grade score
+- Teacher portal showing a listing of an in-memory collection of students and their average mean grade score
 
-- Student detials page showing the grades of possible domain types in the list (Homework, Quiz, Test)
-- Ability to add a new grade for any student in any supoorted domain type 
+- Student details page showing the grades of possible domain types in the list (Homework, Quiz, Test)
+- Ability to add a new grade for any student in any supported domain type 
 
 ## Implememantion Details
 
