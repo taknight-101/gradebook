@@ -1,5 +1,5 @@
 
-# A hybrid distruibuted system implememantion in GO
+# A hybrid distributed system implementation in GO
 
 
 
