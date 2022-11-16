@@ -39,4 +39,5 @@ go run cmd/registryservice/main.go
  go run cmd/teacherportal/main.go 
 ```
 
+Portal access URL: http://localhost:5000/
 
